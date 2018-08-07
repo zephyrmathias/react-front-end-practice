@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Martina Roberson",
+    "gender": "female",
+    "company": "ZIPAK",
+    "email": "martinaroberson@zipak.com",
+    "phone": "+1 (899) 520-2524",
+    "address": "660 Eldert Lane, Taycheedah, Louisiana, 9396",
+    "favoriteFruit": "banana"
+  },
+  {
+    "id": 1,
+    "name": "Pearson Callahan",
+    "gender": "male",
+    "company": "FIREWAX",
+    "email": "pearsoncallahan@firewax.com",
+    "phone": "+1 (912) 513-3498",
+    "address": "624 Bethel Loop, Centerville, Northern Mariana Islands, 6610",
+    "favoriteFruit": "banana"
+  },
+  {
+    "id": 2,
+    "name": "Gillespie Quinn",
+    "gender": "male",
+    "company": "EXOSIS",
+    "email": "gillespiequinn@exosis.com",
+    "phone": "+1 (922) 527-3446",
+    "address": "147 Covert Street, Beaverdale, Vermont, 3131",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": 3,
+    "name": "Tina Stevenson",
+    "gender": "female",
+    "company": "ELENTRIX",
+    "email": "tinastevenson@elentrix.com",
+    "phone": "+1 (925) 474-2910",
+    "address": "321 Nostrand Avenue, Thermal, Delaware, 8966",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": 4,
+    "name": "Merritt Mckinney",
+    "gender": "male",
+    "company": "HOPELI",
+    "email": "merrittmckinney@hopeli.com",
+    "phone": "+1 (833) 487-3132",
+    "address": "340 Seagate Terrace, Finderne, Palau, 5140",
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": 5,
+    "name": "Davidson Pickett",
+    "gender": "male",
+    "company": "SIGNITY",
+    "email": "davidsonpickett@signity.com",
+    "phone": "+1 (835) 548-2102",
+    "address": "426 Irwin Street, Kent, Marshall Islands, 1857",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": 6,
+    "name": "Hobbs Gordon",
+    "gender": "male",
+    "company": "PROGENEX",
+    "email": "hobbsgordon@progenex.com",
+    "phone": "+1 (953) 460-2474",
+    "address": "359 Garden Place, Elwood, New Jersey, 4407",
+    "favoriteFruit": "banana"
+  }
+]
